@@ -1,0 +1,14 @@
+{
+  "name": "TestingAController",
+  "version": "1.0.0",
+  "description": "to demonstrate how to test a controller",
+  "main": "karma.conf.js",
+  "devDependencies": {
+    "karma": "0.12.28",
+    "karma-chrome-launcher": "~0.1.7",
+    "karma-jasmine": "~0.2.0",
+    "karma-spec-reporter": "0.0.26"
+  },
+  "author": "Akhilanand Singh",
+  "license": "MIT"
+}
